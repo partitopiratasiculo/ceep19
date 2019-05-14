@@ -3,8 +3,6 @@ title: "Programma comune per le elezioni del Parlamento Europeo 2019 #CEEP19"
 author: "Partito Pirata Europeo"
 documentclass: scrartcl
 lang: it
-fontsize: 8pt
-classoption: twocolumn
 toc: true
 toc-depth: 2
 ...
